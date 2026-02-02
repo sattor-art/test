@@ -1,0 +1,131 @@
+ .u-section-1 {
+  background-image: url("images/rfr-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 781px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 648px;
+  margin-top: 133px;
+  margin-bottom: 0;
+  height: auto;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 704px;
+  height: 512px;
+  margin: 20px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  font-size: 1rem;
+  margin: 14px auto 0;
+  padding: 10px 33px 10px 32px;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 705px;
+  }
+
+  .u-section-1 .u-group-1 {
+    background-position: 50% 50%;
+    background-size: 135%;
+    margin-top: 134px;
+    min-height: 673px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 7px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 588px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: -22px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 734px;
+  }
+
+  .u-section-1 .u-group-1 {
+    background-size: auto 135%;
+    margin-top: 124px;
+    min-height: 611px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 660px;
+    height: 467px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 653px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 118px;
+    min-height: 535px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 520px;
+    height: 368px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 573px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 165px;
+    min-height: 409px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 320px;
+    height: 233px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
+    padding-right: 10px;
+    padding-left: 9px;
+  }
+}
